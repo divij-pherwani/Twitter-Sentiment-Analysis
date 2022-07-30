@@ -3,6 +3,12 @@
 
 
 Twitter Sentiment Analysis
+
+
 •	Applying Deep Learning for Natural Language Processing
+
+
 •	Developed a sentiment analysis neural network comparable to existing packages
+
+
 Python packages used: NumPy, Pandas, NLTK, Keras, Sklearn, Tensorflow, TextBlob, tweepy
